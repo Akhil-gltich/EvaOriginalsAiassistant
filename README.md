@@ -66,7 +66,7 @@ python main.py
 - Yash  
 - Jai Kaushik  
 - Anshul Tiwari  
-  Faculty: Dr. Pankag Aggarwal  
+  Faculty: Dr. Pankaj Aggarwal  
 K.R. Mangalam University
 
 ## 📃 License
