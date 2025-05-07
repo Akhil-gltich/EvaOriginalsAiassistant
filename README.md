@@ -65,8 +65,8 @@ python main.py
 - Akhil Singh  
 - Yash  
 - Jai Kaushik  
-- Hargun Singh  
-Guide: Dr. Pankag Aggarwal  
+- Anshul Tiwari  
+  Faculty: Dr. Pankag Aggarwal  
 K.R. Mangalam University
 
 ## 📃 License
